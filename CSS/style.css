@@ -15,3 +15,15 @@ h1{
 #mid_div{
   background-color: #FFF5EE;
 }
+
+p{
+  font-size: 33px;
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+  text-align: center;
+  color: #696969;
+  padding-top: 33px;
+}
+
+.container{
+  background-color: #FFF5EE;
+}
