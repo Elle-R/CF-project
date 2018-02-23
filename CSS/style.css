@@ -1,3 +1,17 @@
+#top_div{
+  background-color: #98FB98;
+  height: auto;
+
+}
+
 h1{
   color: pink;
+  font-size: 70px;
+  text-align: center;
+  padding-top: 25px;
+  font-family: Impact, Charcoal, sans-serif,cursive;
+}
+
+#mid_div{
+  background-color: #FFF5EE;
 }
