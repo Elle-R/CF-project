@@ -56,7 +56,7 @@ body{
 
 .nav-pills > li > a, .nav-pills > li.active > a:hover, .nav-pills > li.active > a:focus {
     color:#696969;
-    background-color:#F0FFF0;
+    background-color:#FFF5EE;
     }
 li{
   color: #696969;
@@ -70,6 +70,10 @@ li{
   height: 30px; width: 100%; font-size: 0; margin: 0; padding: 0; border: 0; display: block;
 }
 
-.ml-1{
-  margin-left: ($spacer * .25) !important;
+.col-md-2{
+  padding-left: 40px;
+}
+
+#google_frame{
+  padding-left: 150px;
 }
