@@ -33,6 +33,10 @@ h3{
   padding-left: 15px;
 }
 
+#box_b{
+  border: 2px solid  #A9A9A9;
+}
+
 p{
   font-size: 20px;
   font-family: cursive;
@@ -81,3 +85,11 @@ li{
 #home_img{
   margin-left: 120px;
 }
+
+.input-group{
+  padding-bottom: 15px;
+}
+
+button.link {
+  background:none;
+  border:none; }
