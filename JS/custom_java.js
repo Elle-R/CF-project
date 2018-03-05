@@ -5,3 +5,7 @@ $(document).ready(function() {
     alert("Hello");
   });
 });
+
+$(".link").click(function(){
+    //your JS here
+});
